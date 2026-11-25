@@ -1,6 +1,6 @@
 # Lokalizacja punktu w przestrzeni 2D - metoda trapezowa
 
-Projekt z przedmiotu *Algorytmy geometryczne*. Repozytorium zawiera implementację algorytmu budującego mapę trapezową dla zadanego zbioru odcinków, a także wizualizację zarówno budowy mapy (krok po kroku), jak i wyszukiwania trapezu zawierającego dany punkt.
+Projekt z przedmiotu *Algorytmy geometryczne*. Repozytorium zawiera implementację algorytmu budującego mapę trapezową dla zadanego zbioru odcinków, a także wizualizację zarówno budowy mapy (krok po kroku), jak i wyszukiwania trapezu zawierającego dany punkt. Oryginalne repozytorium projektu znajduje się [pod tym adresem](https://github.com/michal1mroz/GEOMETRIC_ALG_PROJECT).
 
 **Autorzy:** Wojciech Michaluk, Michał Mróz
 
